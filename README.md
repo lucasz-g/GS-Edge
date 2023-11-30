@@ -1,4 +1,4 @@
-Arduino Uno R3 - CP1 LDR E BUZZER
+Arduino Uno R3 - Global Solution
 ===========================================
 
 # Quick links
