@@ -34,7 +34,9 @@ Nossa aplicação tem o foco no monitoramento e prevenção da saúde dos usuár
 
 2. **PNP Transistor** Com recursos limitados no TinkerCad, optamos por utilizar o transistor PNP para simular as frequências cardíacas do usuário.
    
-4. **LCD 16x2:** Utilizamos o LCD 16x2 para exibir a frequência cardíaca e a temperatura, simulando o que seria a tela de um Smart Watch. 
+3. **LCD 16x2:** Utilizamos o LCD 16x2 para exibir a frequência cardíaca e a temperatura, simulando o que seria a tela de um Smart Watch.
+
+4. **Potenciometro:** Utilizado para controlar o contraste do LCD 16x2 
 
 Este é o primeiro passo de um projeto mais amplo de monitoramento das condições de saúde. Com o sucesso desta fase, a equipe pretende expandir o sistema de monitoramento de temperatura e de frequência cardíaca, proporcionando um maior controle e praticidade.
 
