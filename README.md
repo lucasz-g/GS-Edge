@@ -20,6 +20,7 @@ The Arduino Uno R3 is a popular microcontroller board that is part of the Arduin
 
 # Overview
 Proposta Global Solutions para Edge Computing & Computer Systems
+
 O desafio proposto pela Global Solutions para Edge Computing envolve o desenvolvimento de uma aplicação usando o arduino e os
 componentes disponíveis no simulador Tinkercad.
 
